@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "de Sousa Faria"
+  given-names: "Luiz Felipe"
+- family-names: "F. A. Oliveira"
+  given-names: "Lucas Samuel"
+- family-names: "Lima Caires"
+  given-names: "Rafael"
+title: "Sistema de Controle de Fadiga"
+version: 1.0.0
+date-released: 2024-06-11
+url: "https://github.com/lutilipe/sistema-controle-de-fadiga"
